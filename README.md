@@ -37,3 +37,8 @@ python manage.py runserver
 ```bash
 http://127.0.0.1:8000
 ```
+5. Username and Password
+```bash
+username: rasel
+password: 123456
+```
